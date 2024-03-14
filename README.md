@@ -199,7 +199,7 @@ void loop(){
 }
 ```
 
-## Physical Set Up
+## Physical Set Up and Application
 
 <p align="center">
   <img width="330" height="300" src="https://github.com/skywillow/DAI_Firebase_Proj/assets/154501032/15f8f970-dd89-48c1-9af5-7720307024e9">
@@ -209,8 +209,7 @@ void loop(){
   <img width="900" height="300" src="https://github.com/skywillow/DAI_Firebase_Proj/assets/154501032/ff66eb92-ac58-4e4d-9caa-99c4e080cfca">
 </p>
 
-
-## Application
+For the testing, I made use of tissue paper to mimic the formation of calcium carbonate on a surface and to see the updated changes on Firebase.
 
 
 
