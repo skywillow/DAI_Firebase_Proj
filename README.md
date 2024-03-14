@@ -40,6 +40,7 @@ For demonstration purposes, I have made some assumptions but these can easily be
 
 ![image](https://github.com/skywillow/DAI_Firebase_Proj/assets/154501032/963d7efc-c55e-4c75-8883-26a818d5aeb8)
 
+The LED Diode circuit should be connected to the Pin 2 on the ESP32 and the LDR Resistor circuit should be connected to Pin 3 on the ESP32.
 
 ## Code
 
@@ -70,7 +71,7 @@ Before continuing you have to install
 
 // Insert your network credentials (ie wifi network name and password)
 #define WIFI_SSID "phine"
-#define WIFI_PASSWORD "haniisbae"
+#define WIFI_PASSWORD "nil"
 
 // Insert Firebase project API Key (This can be obtained by heading to your Firebase's project settings)
 #define API_KEY "AIzaSyBfxlqpUi4NzVRKS4A66XJG2K932IgiYVw"
@@ -79,7 +80,7 @@ Before continuing you have to install
 #define DATABASE_URL "https://dai-esp-default-rtdb.asia-southeast1.firebasedatabase.app/" 
 
 // The PIN number on the ESP that is connected to the circuit
-#define LED_PIN 2
+#define LED_PIN 2 
 #define LDR_PIN 3
 
 //Define Firebase Data object
@@ -200,4 +201,17 @@ void loop(){
 
 ## Physical Set Up
 
+<p align="center">
+  <img width="330" height="300" src="https://github.com/skywillow/DAI_Firebase_Proj/assets/154501032/15f8f970-dd89-48c1-9af5-7720307024e9">
+</p>
+
+<p align="center">
+  <img width="900" height="300" src="https://github.com/skywillow/DAI_Firebase_Proj/assets/154501032/ff66eb92-ac58-4e4d-9caa-99c4e080cfca">
+</p>
+
+
 ## Application
+
+
+
+
