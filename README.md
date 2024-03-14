@@ -38,9 +38,12 @@ For demonstration purposes, I have made some assumptions but these can easily be
 
 ## Schematic Diagram
 
+![image](https://github.com/skywillow/DAI_Firebase_Proj/assets/154501032/963d7efc-c55e-4c75-8883-26a818d5aeb8)
+
+
 ## Code
 
-'''
+```
 /*
   Rui Santos
   Complete project details at our blog.
@@ -193,6 +196,8 @@ void loop(){
     delay(15000);
   }
 }
-'''
+```
+
+## Physical Set Up
 
 ## Application
