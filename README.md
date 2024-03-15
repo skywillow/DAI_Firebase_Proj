@@ -209,7 +209,7 @@ void loop(){
   <img width="900" height="300" src="https://github.com/skywillow/DAI_Firebase_Proj/assets/154501032/ff66eb92-ac58-4e4d-9caa-99c4e080cfca">
 </p>
 
-For the testing, I made use of tissue paper to mimic the formation of calcium carbonate on a surface and to see the updated changes on Firebase.
+For the testing, I made use of tissue paper to mimic the formation of calcium carbonate on a surface and to see the updated changes on Firebase. You can view the video demonstration in the file attached!
 
 
 
